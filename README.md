@@ -1,0 +1,2 @@
+ In this implementation using dotnet, there are four layers: Core, Service, Repository, and Caching. The three models used are Category, Product, and ProductFeature. Each Category can have multiple Products, and each VideoInterview has one Score associated with it.
+ In this implementation using dotnet, there are four layers: Core, Service, Repository, and Caching. The three models used are Category, Product, and ProductFeature. Each Category can have multiple Products, and each Product has one ProductFeature associated with it.

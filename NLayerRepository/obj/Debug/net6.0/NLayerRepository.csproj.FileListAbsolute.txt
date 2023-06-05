@@ -1,0 +1,17 @@
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\bin\Debug\net6.0\NLayerRepository.deps.json
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\bin\Debug\net6.0\NLayerRepository.dll
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\bin\Debug\net6.0\NLayerRepository.pdb
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\bin\Debug\net6.0\NLayerCore.dll
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\bin\Debug\net6.0\NLayerCore.pdb
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.csproj.AssemblyReference.cache
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.AssemblyInfoInputs.cache
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.AssemblyInfo.cs
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.csproj.CopyComplete
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.dll
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\refint\NLayerRepository.dll
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.pdb
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\ref\NLayerRepository.dll
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\bin\Debug\net6.0\NLayerRepository.runtimeconfig.json
+C:\Users\ONUR\source\repos\NlayerApp\NLayerRepository\obj\Debug\net6.0\NLayerRepository.genruntimeconfig.cache
